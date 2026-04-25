@@ -1,7 +1,7 @@
 # tags-aprendidas
-Desafio do Projeto Dio: (Colocando em práticas todas as tags apreendida nas aulas de HTML. )
-Minha primeira pagina de web Utilizando as Tags aprendidas são elas:
-tags novas
+Objetivos:
+- Colabora com o desabio de desenvolver um website  utilizando todo conhecimento sobre as tags html. 
+- As Tags aprendidas foram:
 <font>:Especifica o tipo de fonte, tamanho, e cor do texto. (Apenas efeito visual);  
 <del>: Define um texto deletado;
 <p>:Define um parágrafo;
